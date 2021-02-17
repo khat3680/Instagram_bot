@@ -109,6 +109,7 @@ my_bot = InstaBot('lifeofanshul', '')
 my_bot.get_unfollowers()
 print(len(my_bot.not_following_back))
 """
+<<<<<<< HEAD
 thegoodquote
 
 
@@ -620,4 +621,6 @@ raman.paradox
 
 
 khushhii.s
+=======
+>>>>>>> a87a8f567632e3151d56d9d3b99c1e51e7bfaa89
 """
