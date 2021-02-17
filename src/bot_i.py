@@ -105,7 +105,7 @@ class InstaBot:
         return names
 
 
-my_bot = InstaBot('lifeofanshul', 'Dubblin@5858')
+my_bot = InstaBot('lifeofanshul', '')
 my_bot.get_unfollowers()
 print(len(my_bot.not_following_back))
 """
